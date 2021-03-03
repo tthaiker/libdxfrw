@@ -34,6 +34,8 @@ packages/
 /vs2013/libdxfrw.v12.suo
 /vs2013/Debug
 /vs2013/Release
+/vs2013/x64/Debug
+/vs2013/x64/Release
 /vs2013/libdxfrw.opensdf
 /vs2013/libdxfrw.vcxproj.user
 /dwg2dxf/vs2013/Debug
