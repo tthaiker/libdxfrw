@@ -15,6 +15,8 @@ Makefile
 *.dll
 *~
 *bz2
+*.vcxproj.filters
+*.vcxproj.user
 #vim files
 *.swp
 *.orig
