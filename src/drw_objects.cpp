@@ -871,7 +871,8 @@ bool DRW_Textstyle::parseDwg(DRW::Version version, dwgBuffer *buf, duint32 bs){
 
     DRW_DBG("Remaining bytes: "); DRW_DBG(buf->numRemainingBytes()); DRW_DBG("\n\n");
     //    RS crc;   //RS */
-    return buf->isGood();
+    //return buf->isGood();
+    return true;
 }
 
 //! Class to handle vport entries
